@@ -22,6 +22,8 @@ I will join the [Oxford-Man Institute of Quantitative Finance](https://oxford-ma
 
 News
 ======
-[September 20-21, 2024] Presentation at [NBER-NSF Time Series Conference 2024]([https://sites.google.com/view/sofie2024/](https://www.sas.upenn.edu/~fdiebold/AAA_NBER_NSF_2024/Main.html)), University of Pennsylvania, United States: "Realized Candlestick Wicks"
+September 20-21, 2024<br>
+Presentation at [NBER-NSF Time Series Conference 2024]([https://sites.google.com/view/sofie2024/](https://www.sas.upenn.edu/~fdiebold/AAA_NBER_NSF_2024/Main.html)), University of Pennsylvania, United States: "Realized Candlestick Wicks"
 
-[June 13-16, 2024] Presentation at [16th Annual SoFiE Conference](https://sites.google.com/view/sofie2024/), Pontifical Catholic University of Rio de Janeiro, Brazil: "Realized Candlestick Wicks"
+June 13-16, 2024<br>
+Presentation at [16th Annual SoFiE Conference](https://sites.google.com/view/sofie2024/), Pontifical Catholic University of Rio de Janeiro, Brazil: "Realized Candlestick Wicks"
