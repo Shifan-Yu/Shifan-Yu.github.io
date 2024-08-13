@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Home"
+title: # "Home"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+I am a Ph.D. candidate in Finance at Lancaster University Management School (LUMS) and a research fellow of the Centre for Financial Econometrics, Asset Markets and Macroeconomic Policy. My research interests are in financial econometrics, with a specific focus on high-frequency financial data and their implications for enhanced statistical inference for asset price dynamics and market microstructure. My research is funded by the North West Social Science Doctoral Training Partnership (NWSSDTP) of the Economic and Social Research Council (ESRC) with an enhanced award in Advanced Quantitative Methods.
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
