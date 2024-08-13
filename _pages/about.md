@@ -7,13 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D. Candidate in Finance
-
-Department of Accounting and Finance
-
-Lancaster University Management School
-
-Lancaster LA1 4YX, United Kingdom
+Ph.D. Candidate in Finance\\
+Department of Accounting and Finance\\
+Lancaster University Management School\\
+Lancaster LA1 4YX, United Kingdom\\
 
 Email: s.yu7@lancaster.ac.uk
 
