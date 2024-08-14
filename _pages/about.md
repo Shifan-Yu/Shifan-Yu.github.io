@@ -17,9 +17,6 @@ I will join the <a href="https://oxford-man.ox.ac.uk/" style="text-decoration: n
 
 News
 ======
-December 14-16, 2024<br>
-Presentation at <a href="https://www.cmstatistics.org/CFECMStatistics2024/" style="text-decoration: none; color: #2B6CB0;">CFE-CMStatistics 2024</a>, King's College London, UK, "Decoupling Interday and Intraday Volatility Dynamics with Price Durations"
-
 September 20-21, 2024<br>
 Presentation at <a href="https://www.sas.upenn.edu/~fdiebold/AAA_NBER_NSF_2024/Main.html" style="text-decoration: none; color: #2B6CB0;">NBER-NSF Time Series Conference 2024</a>, University of Pennsylvania, United States, "Realized Candlestick Wicks"
 
