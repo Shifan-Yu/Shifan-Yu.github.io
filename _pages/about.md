@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**Welcome to my webpage!**
+Welcome to my webpage!
 
 I am a Ph.D. candidate in Finance at <a href="https://www.lancaster.ac.uk/lums/" style="text-decoration: none; color: blue;">Lancaster University Management School</a> and a research fellow of the [Centre for Financial Econometrics, Asset Markets and Macroeconomic Policy](https://www.lancaster.ac.uk/lums/research/areas-of-expertise/centre-for-financial-econometrics-asset-markets-and-macroeconomic-policy/). 
 
