@@ -1,23 +1,14 @@
 ---
 permalink: /
-title: # Shifan Yu
+title: # 
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Shifan Yu
-======
-Ph.D. Candidate in Finance<br>
-Department of Accounting and Finance<br>
-Lancaster University Management School<br>
-Lancaster LA1 4YX, United Kingdom
+Welcome to my webpage!
 
-Email: s.yu7@lancaster.ac.uk
-
-Bio
-======
 I am a Ph.D. candidate in Finance at [Lancaster University Management School](https://www.lancaster.ac.uk/lums/) and a research fellow of the [Centre for Financial Econometrics, Asset Markets and Macroeconomic Policy](https://www.lancaster.ac.uk/lums/research/areas-of-expertise/centre-for-financial-econometrics-asset-markets-and-macroeconomic-policy/). My research interests are in financial econometrics, with a specific focus on high-frequency financial data and their implications for enhanced statistical inference for asset price dynamics and market microstructure. My research is funded by the [North West Social Science Doctoral Training Partnership](https://nwssdtp.ac.uk/) (NWSSDTP) of the [Economic and Social Research Council](https://www.ukri.org/councils/esrc/) (ESRC) with an enhanced award in Advanced Quantitative Methods.
 
 I will join the [Oxford-Man Institute of Quantitative Finance](https://oxford-man.ox.ac.uk/), [University of Oxford](https://www.ox.ac.uk/), as a postdoctoral researcher in September 2024.
