@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: # 
+title: "Presentations & Invited Talks"
+permalink: /talks/
 author_profile: true
 redirect_from: 
   - /talks/
   - /talks.html
 ---
-
 
 **Shifan Yu**<br>
 Postdoctoral Researcher<br>
