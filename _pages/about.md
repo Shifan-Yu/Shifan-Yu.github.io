@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: Shifan Yu
+title: # Shifan Yu
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+Shifan Yu
+======
 Ph.D. Candidate in Finance<br>
 Department of Accounting and Finance<br>
 Lancaster University Management School<br>
