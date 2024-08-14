@@ -11,11 +11,11 @@ Welcome to my webpage!
 
 Contact
 =======
-**Shifan Yu**
-Postdoctoral Researcher
-<a href="https://oxford-man.ox.ac.uk/" style="text-decoration: none; color: #2B6CB0;">Oxford-Man Institute of Quantitative Finance</a>
-<a href="https://www.ox.ac.uk/" style="text-decoration: none; color: #2B6CB0;">University of Oxford</a>
-Eagle House, Walton Well Road
+**Shifan Yu**<br>
+Postdoctoral Researcher<br>
+<a href="https://oxford-man.ox.ac.uk/" style="text-decoration: none; color: #2B6CB0;">Oxford-Man Institute of Quantitative Finance</a><br>
+<a href="https://www.ox.ac.uk/" style="text-decoration: none; color: #2B6CB0;">University of Oxford</a><br>
+Eagle House, Walton Well Road<br>
 Oxford OX2 6ED, United Kingdom
 
 **Email:** shifan.yu@eng.ox.ac.uk
